@@ -15,10 +15,12 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: ⚛️ Physik
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    link: ./physik
+  - title: 💻 Informatik
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: ./informatik
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
