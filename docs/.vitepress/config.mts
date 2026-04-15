@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Physicode",
   description: "Dein digitales Lehrbuch",
-  base: '/physicode/',
+  base: '/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
