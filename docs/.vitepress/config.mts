@@ -23,8 +23,18 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+    footer: {
+      message: [
+        '<a href="/apps">More apps</a>',
+        '<a href="/kontakt">Kontakt</a>',
+        '<a href="/impressum">Impressum</a>',
+        '<a href="/datenschutz">Datenschutz</a>',
+        '<a href="/links">Links</a>',
+        '<a href="https://github.com/DEIN-GITHUB-NAME" target="_blank" rel="noreferrer">GitHub</a>'
+      ].join(' | '),
+
+      copyright:
+        'Unless stated otherwise, all content is public domain or open for educational use.'
+    }
+  } 
 })
