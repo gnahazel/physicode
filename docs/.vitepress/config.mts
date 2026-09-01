@@ -30,7 +30,7 @@ export default defineConfig({
         '<a href="/impressum">Impressum</a>',
         '<a href="/datenschutz">Datenschutz</a>',
         '<a href="/links">Links</a>',
-        '<a href="https://github.com/DEIN-GITHUB-NAME" target="_blank" rel="noreferrer">GitHub</a>'
+        '<a href="https://github.com/gnahazel" target="_blank" rel="noreferrer">GitHub</a>'
       ].join(' | '),
 
       copyright:
